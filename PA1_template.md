@@ -1,11 +1,20 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
 author: "Dandeliontree"
-date: "20 September 2015"
+date: "12 February 2016"
 output: html_document
 keep_md: true
 
 ---
+
+https://github.com/Liyenz/RepData_PeerAssessment1/blob/master/PA1_template.md
+
+https://github.com/LH-datascience/RepData_PeerAssessment1/blob/master/PA1_template.md
+
+https://github.com/vbondarevsky/RepData_PeerAssessment1/blob/master/PA1_template.md
+
+
+
 
 ## Loading and preprocessing the data
 Set-up the environment   
@@ -31,7 +40,8 @@ Assumption is that the data exists in the ./data directory in a raw (non archive
 
 
 ## What is mean total number of steps taken per day?
-Question 1: Exclusion missing values, What is mean total number of steps taken per day? 
+Question 1: Excludiong missing values, What is mean total number of steps taken per day? 
+
 Analysis excluding missing values.
 
 
